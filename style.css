@@ -118,7 +118,7 @@ input.error + .invalid-email {
     visibility: hidden;
     position: absolute;
     right: 20%;
-    top: 8%;
+    top: 10%;
 }
 
 @media screen and (max-width: 600px) {
